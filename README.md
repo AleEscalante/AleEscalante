@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **If you want to contact me, you can email me at alexalante3@gmail.com . I'm excited to connect with you and discuss anything related to my data science experience.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
